@@ -1,0 +1,211 @@
+.main-area {
+    position: relative;
+    width: 575px;
+    height: 600px;
+    box-sizing: border-box;
+}
+
+.block-one {
+    background-color: #E5EEEB;
+    border-bottom: 10px solid #130409;
+    border-right: 10px solid #130409;
+    width: 150px;
+    height: 60px;
+}
+
+.block-two {
+    background-color: #FBFDE7;
+    border-right: 10px solid #130409;
+    width: 70px;
+    height: 145px;
+}
+
+.block-three {
+    position: absolute;
+    background-color: #E1EAE5;
+    border-right: 10px solid #130409;
+    border-top: 10px solid #130409;
+    width: 70px;
+    height: 210px;
+}
+
+.block-four {
+    position: absolute;
+    top: 60px;
+    left: 71px;
+    background-color: #D62D24;
+    width: 287px;
+    height: 296px;
+    border: 10px solid #130409;
+}
+
+.block-five {
+    position: absolute;
+    top: 0px;
+    left: 158px;
+    width: 209px;
+    height: 60px;
+    background-color: #F2E7D5;
+    border-right: 10px solid #130409;
+}
+
+.block-six {
+    position: absolute;
+    background-color: #130409;
+    left: 78px;
+    bottom: 95px;
+    width: 142px;
+    height: 130px;
+}
+
+.block-seven {
+    background-color: #F2C968;
+    position: absolute;
+    border-bottom: 10px solid #130409;
+    top: 0px;
+    right: 40px;
+    width: 157px;
+    height: 60px;
+}
+
+.block-eight {
+    background-color: #FCFDE7;
+    position: absolute;
+    border-left: 10px solid #130409;
+    top: 0px;
+    right: 0px;
+    width: 30px;
+    height: 445px;
+}
+
+.block-nine {
+    background-color: #F2C968;
+    position: absolute;
+    border-bottom: 10px solid #130409;
+    top: 69px;
+    right: 40px;
+    width: 157px;
+    height: 140px;
+}
+
+.block-ten {
+    background-color: #F2EEE2;
+    position: absolute;
+    border-bottom: 10px solid #130409;
+    border-left: 10px solid #130409;
+    top: 218px;
+    right: 40px;
+    width: 75px;
+    height: 147px;
+}
+
+.block-eleven {
+    background-color: #DFE5D0;
+    position: absolute;
+    border-bottom: 10px solid #130409;
+    border-left: 10px solid #130409;
+    top: 218px;
+    right: 122px;
+    width: 75px;
+    height: 147px;
+}
+
+.block-thirteen {
+    background-color: #D6DEE0;
+    position: absolute;
+    border-bottom: 10px solid #130409;
+    border-left: 10px solid #130409;
+    bottom: 150px;
+    right: 40px;
+    width: 158px;
+    height: 65px;
+}
+
+.block-fourteen {
+    background-color: #D73630;
+    position: absolute;
+    border-top: 10px solid #130409;
+    border-left: 10px solid #130409;
+    bottom: 21px;
+    right: 0px;
+    width: 30px;
+    height: 130px;
+}
+
+.block-fifteen {
+    background-color: whitesmoke;
+    position: absolute;
+    border-top: 10px solid #130409;
+    border-left: 10px solid #130409;
+    bottom: 21px;
+    right: 0px;
+    width: 320px;
+    height: 20px;
+}
+
+.block-sixteen {
+    background-color: #E0E0DF;
+    position: absolute;
+    border-top: 10px solid #130409;
+    border-left: 10px solid #130409;
+    bottom: 21px;
+    right: 0px;
+    width: 346px;
+    height: 20px;
+}
+
+.block-seventeen {
+    background-color: #E3DED9;
+    position: absolute;
+    border-right: 10px solid #130409;
+    border-left: 10px solid #130409;
+    bottom: 21px;
+    left: 70px;
+    width: 139px;
+    height: 60px;
+}
+
+.block-eighteen {
+    background-color: #F4C65A;
+    position: absolute;
+    border-top: 10px solid #130409;
+    border-right: 10px solid #130409;
+    bottom: 21px;
+    left: 0px;
+    width: 70px;
+    height: 135px;
+}
+
+.block-nineteen {
+    background-color: #C0BFBA;
+    position: absolute;
+    border: 10px solid #130409;
+    bottom: 150px;
+    left: 218px;
+    width: 140px;
+    height: 65px;
+}
+
+.block-twenty {
+    background-color: #DEE2D4;
+    position: absolute;
+    border: 10px solid #130409;
+    bottom: 80px;
+    left: 218px;
+    width: 140px;
+    height: 60px;
+}
+
+.block-twentyone {
+    background-color: #241785;
+    position: absolute;
+    border: 10px solid #130409;
+    bottom: 41px;
+    right: 30px;
+    width: 157px;
+    height: 100px;
+}
+
+body {
+    background: #130409;
+}
